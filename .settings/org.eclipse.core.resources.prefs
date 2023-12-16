@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/vn/devpro/shopManagement/Sale/ListOrder.java=UTF-8
+encoding//src/vn/devpro/shopManagement/Sale/ListProductInOrder.java=UTF-8
+encoding//src/vn/devpro/shopManagement/Sale/Order.java=UTF-8
+encoding//src/vn/devpro/shopManagement/Sale/ProductInOrder.java=UTF-8
+encoding//src/vn/devpro/shopManagement/Sale/SaleManagement.java=UTF-8
+encoding//src/vn/devpro/shopManagement/Sales_Statistics/OrderManagement.java=UTF-8
+encoding//src/vn/devpro/shopManagement/ShopManagement.java=UTF-8
+encoding//src/vn/devpro/shopManagement/Update/UpdateManagement.java=UTF-8
+encoding//src/vn/devpro/shopManagement/Update/category/Category.java=UTF-8
+encoding//src/vn/devpro/shopManagement/Update/category/CategoryManagement.java=UTF-8
+encoding//src/vn/devpro/shopManagement/Update/customer/Customer.java=UTF-8
+encoding//src/vn/devpro/shopManagement/Update/customer/CustomerManagement.java=UTF-8
+encoding//src/vn/devpro/shopManagement/Update/product/Product.java=UTF-8
+encoding//src/vn/devpro/shopManagement/Update/product/ProductManagement.java=UTF-8
